@@ -12,3 +12,13 @@ Current Setup:
 -CPAP w/ Flap
 -E3D Panda Revo 65W 24V w/ ObXidian High Flow
 -Mandela Rose Works MagBed with kinematic mounts
+
+Like all engineers, I tinker and wanted to put my spin on CxChanger so I started with the 6.11 base and modified for what I wanted:  
+- fans that stay with the hotend
+- cpap
+- usb-c hotend board
+- belt grips on the toolhead
+- 4 fastener carriage mount
+- bearings in the extruder swing arm mount
+- fixed some minor things with alignment in the cad
+- added a PC4-M6 fitting to the hotend tool
